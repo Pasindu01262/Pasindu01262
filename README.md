@@ -9,7 +9,7 @@
   
 <ul type="disk" align="left">
 <li> I’m currently working on My own project</li>
-<li>I’m currently learning at University of kelaniya and Self studying JavaScript</li>
+<li>I’m currently learning at University of kelaniya and Self studying MongoDB</li>
 <li> How to reach me pasindukossinna@gmail.com</li>
 </ul>
 
